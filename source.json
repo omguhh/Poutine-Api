@@ -1,0 +1,14 @@
+{
+  "data" : [
+    {"name": "Regular French Fries", "description": "French Fries", "price": "10 DHS"},
+    {"name": "Home Made French Fries", "description": "French Fries cut in house", "price": "15 DHS"},
+    {"name": "Curly Fries", "description": "Curly Fries", "price": "15 DHS"},
+    {"name": "Sweet Potato Wedges", "description": "Mmm Sweet Potato", "price": "15 DHS" },
+    {"name": "Onion Rings", "description": "Onion Rings", "price": "15 DHS" },
+    {"name": "Chicken Nuggets", "description": "4pcs of nuggets deep fried,served with French Fries and your choice of BBQ, buffali or honey mustard sauce", "price": "15 DHS" },
+    {"name": "Bowl Of Chili", "description": "A hearty spicy chili concarne made with simmered ground brisket,diced tomatoes,red kidney beand,peppers,onion and celery alogn with a blend of spices and herbs, topped with cheddar cheese,sour creeam and jalapeno peppers", "price": "36 DHS" },
+    {"name": "Bacon Basket", "description": "6 deep fried beef bacon strips marinated in maple syrup and served with honey mustard", "price": "30 DHS" },
+    {"name": "Steamies", "description": "Steamed beef hotdog topped with ketchup and mustard served in a hotdog bun", "price": "20 DHS" },
+    {"name": "Chili Wili", "description": "Steamed beef hotdog topped with our chili con carne,grated cheddar,onions,sour cream and jalapeno peppers", "price": "30 DHS" }
+  ]
+}
