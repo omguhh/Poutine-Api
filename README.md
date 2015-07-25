@@ -1,5 +1,5 @@
 # Poutine-API
-API for Maple Leaf's menu, because I love their food.
+API for [Maple Leaf's](http://mldeli.com/) menu, because I love their food.
 
 ## Demo
 
