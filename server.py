@@ -1,3 +1,4 @@
+#my love for poutine has gone too far
 import string
 import json
 import os
@@ -7,7 +8,7 @@ import webapp2
 class InstantAPIServer(webapp2.RequestHandler):
     def get(self):
 
-        #self.send_response(200)
+
         self.response.headers['Content-Type'] = 'application/json'
 
         file_arg = "source.json"
@@ -34,8 +35,6 @@ class InstantAPIServer(webapp2.RequestHandler):
             self.response.set_status(404)
             node = json.loads("{\"error\":\"Couldn't find source\"}")
 
-
-        # self.response.write(json.dumps(node,sort_keys=True, indent=4, separators=(',', ': ')))
 
         self.response.write(json.dumps(node,indent=4))
 
